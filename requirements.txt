@@ -1,0 +1,17 @@
+argparse
+datetime
+torch
+opencv-python
+numpy
+flask
+werkzeug
+requests
+gunicorn
+pillow
+pandas
+torchvision
+tqdm
+PyYaml
+matplotlib
+seaborn
+scipy
